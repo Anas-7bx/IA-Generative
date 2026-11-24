@@ -1,0 +1,5 @@
+﻿.venv/
+resultats_pdf/
+chroma*/
+__pycache__/
+.ipynb_checkpoints/
