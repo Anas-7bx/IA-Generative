@@ -1,0 +1,14 @@
+# Environnement virtuel
+.venv/
+
+# Données MNIST téléchargées automatiquement (~60 Mo)
+data/
+
+# Modèles sauvegardés et fichiers générés
+*.pth
+*.pt
+graphe_operations.png
+
+# Fichiers Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
